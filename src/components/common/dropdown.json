@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_common_dropdowns",
+  "info": {
+    "displayName": "dropdown"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "dropdownItems": {
+      "displayName": "DropdownItem",
+      "type": "component",
+      "repeatable": true,
+      "component": "common.dropdown-item"
+    }
+  }
+}

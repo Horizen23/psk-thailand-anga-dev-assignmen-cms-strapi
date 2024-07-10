@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_home_expert_teams",
+  "info": {
+    "displayName": "ExpertTeam"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}

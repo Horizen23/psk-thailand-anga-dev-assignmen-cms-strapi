@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_common_content_footer_items",
+  "info": {
+    "displayName": "ContentFooterItem",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    }
+  }
+}

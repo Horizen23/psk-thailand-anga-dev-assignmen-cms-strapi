@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_common_dropdown_items",
+  "info": {
+    "displayName": "DropdownItem",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "href": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_home_awards",
+  "info": {
+    "displayName": "Awards",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "awards": {
+      "displayName": "award",
+      "type": "component",
+      "repeatable": true,
+      "component": "common.award"
+    }
+  }
+}

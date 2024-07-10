@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_common_buttons",
+  "info": {
+    "displayName": "buttons",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "icon": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "variant": {
+      "type": "string"
+    }
+  }
+}
