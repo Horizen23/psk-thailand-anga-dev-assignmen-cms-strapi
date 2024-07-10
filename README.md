@@ -4,8 +4,30 @@ Strapi comes with a full featured [Command Line Interface](https://docs.strapi.i
 
 ### `email admin`
 
-Email : com100pb@gmail.com
-Password : !&i&LjYjcVn7DRP
+**Email:** com100pb@gmail.com
+**Password:** !&i&LjYjcVn7DRP
+
+
+### Content Homepage
+
+![Content Homepage](contentHomePage.png)
+
+- **Description:** This image shows the layout and components of the content homepage in the CMS. It includes sections for featured content and navigation elements.
+
+### Footer Configuration
+
+![Footer Configuration](footer.png)
+
+- **Description:** This image illustrates the configuration options for the footer in the CMS. It highlights elements such as links, social media icons, and copyright information.
+
+### Navbar Setup
+
+![Navbar Setup](navbar.png)
+
+- **Description:** This image demonstrates the setup and customization options for the navigation bar in the CMS. It showcases menu items, dropdowns, and branding elements.
+
+
+
 
 ### `develop`
 
